@@ -272,7 +272,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
@@ -280,5 +280,10 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+#_pages/about.md	permalink: /about/
+#_pages/home.md	permalink: /
+#_pages/contact.md	permalink: /contact/
 
 theme: jekyll-theme-minimal
