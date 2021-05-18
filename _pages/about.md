@@ -2,4 +2,4 @@
 permalink: /about/
 ---
 
-Stealth Mode Startup
+Stealth Mode
