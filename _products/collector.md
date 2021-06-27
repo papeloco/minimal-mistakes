@@ -1,8 +1,8 @@
 ---
 title: "Collector"
-date: 2018-11-28T15:15:34+10:00
+date: 2021-02-03T12:12:12+10:00
 featured: true
-weight: 4
+weight: 3
 layout: product
 ---
 

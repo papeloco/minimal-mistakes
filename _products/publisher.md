@@ -1,6 +1,6 @@
 ---
 title: "Publisher"
-date: 2018-11-28T15:15:26+10:00
+date: 2021-02-02T12:12:12+10:00
 featured: true
 weight: 2
 layout: product
