@@ -1,0 +1,24 @@
+main:
+  - name: "Products"
+    url: "/products/"
+    weight: 2
+  - name: "Pricing"
+    url: "/pricing/"
+    weight: 3
+  - name: "Team"
+    url: "/team/"
+    weight: 4
+  - name: "About"
+    url: "/about/"
+    weight: 5
+  - name: "Contact"
+    url: "/contact/"
+    weight: 6
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2

@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Form Publisher",
+    "description": "Builds and distribute forms via web, text, and paper/mail.",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Form Collector",
+    "description": "Consolidates web, scanned paper, and text entries into a single database.",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Integrations",
+    "description": "Integrate with all of your favorite applications.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+]
