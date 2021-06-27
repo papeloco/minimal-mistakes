@@ -2,14 +2,14 @@ main:
   - name: "Products"
     url: "/products/"
     weight: 2
-  - name: "Pricing"
-    url: "/pricing/"
-    weight: 3
-  - name: "Team"
-    url: "/team/"
-    weight: 4
   - name: "About"
     url: "/about/"
+    weight: 3
+  - name: "Pricing"
+    url: "/pricing/"
+    weight: 4
+  - name: "Team"
+    url: "/team/"
     weight: 5
   - name: "Contact"
     url: "/contact/"
