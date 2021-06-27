@@ -1,12 +1,12 @@
 ---
-title: Jekyll Serif Theme
+title: Papelo
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Papelo is a simple, sophisticated all-in-one solution to easily manage the creations, editing, and collection of digital and paper forms.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Papelo - The future of paperless.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Papelo is a simple, sophisticated all-in-one solution to easily manage the creations, editing, and collection of digital and paper forms.

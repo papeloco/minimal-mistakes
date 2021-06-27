@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Form Publisher",
+    "description": "Builds and distribute forms via web, text, and paper/mail.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Form Collector",
+    "description": "Consolidates web, scanned paper, and text entries into a single database.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Integrations",
+    "description": "Integrate with all of your favorite applications.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]

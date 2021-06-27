@@ -3,11 +3,12 @@
 ---
 
 // Colors
-$primary: #E5261F;
-$secondary: #f88379;
-$black: #2f2f41;
 $white: #ffffff;
-$white-offset: #fff6f8;
+$black: #2f2f41;
+$primary: #1f76a1; 
+$secondary: #edac5c;
+
+$white-offset: #f6faff;
 $steel: #5C5A5A;
 
 // Links
@@ -19,6 +20,9 @@ $link-hover-decoration: underline;
 // Fonts
 $font-family-base: Helvetica, Arial, sans-serif, -apple-system;
 $font-family-heading: 'Playfair Display', serif, -apple-system;
+
+// Header
+$header-text-color: #edac5c !default;
 
 // Footer
 $footer-background-color: $primary;
@@ -59,7 +63,7 @@ $sub-footer-text-color: $white;
 // Pages
 @import 'pages/home';
 @import 'pages/team/team-summary';
-@import 'pages/services/page-services-single';
+@import 'pages/products/page-product-single';
 
 body {
   font-size: 16px;

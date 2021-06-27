@@ -10,7 +10,7 @@ pagesDir: ''
 pageLayoutKey: null
 logicFields:
   - site_menu_item.weight
-  - service.weight
+  - product.weight
   - team.weight
 models:
   config:
@@ -85,7 +85,7 @@ models:
         name: collections
         fields:
           - type: object
-            name: services
+            name: products
             fields:
               - type: boolean
                 name: output
@@ -249,10 +249,10 @@ models:
             value: footer
       - type: string
         name: bodyClass
-  service:
+  product:
     type: page
-    label: Service
-    folder: _services
+    label: Product
+    folder: _products
     fields:
       - type: string
         name: title
@@ -267,12 +267,12 @@ models:
       - type: enum
         name: layout
         options:
-          - label: service
-            value: service
-  services:
+          - label: product
+            value: product
+  products:
     type: page
-    label: Services Overview
-    file: services.md
+    label: Products Overview
+    file: products.md
     singleInstance: true
     fields:
       - type: string
@@ -295,8 +295,8 @@ models:
       - type: enum
         name: layout
         options:
-          - label: services
-            value: services
+          - label: products
+            value: products
   team:
     type: page
     label: Team

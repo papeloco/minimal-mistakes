@@ -5,48 +5,12 @@ layout: page
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Since 1985, Camp Opportunity has run a summer program dedicated to serving children aged 8-11 who have been victims of abuse and neglect. These children often, unfortunately, live in unreliable households where computer access and ability to follow-through is limited. If you are overwhelmed by email, these families have that problem tenfold as they battle income stability, mental health issues, and substance abuse. When enrolling our campers in Camp Opportunity, there are some parts of the enrollment process where we need engagement from the families -- reaching these homes and getting them to submit a form requires emails, texts, phone calls, physical mail -- and we need an all-of-the above solution so that our staff and volunteers don’t go nuts trying to collect and consolidate information from each of these places.
 
-## Ne verba patulosque numen vix libet
+> Camp Opportunity -- and camps, schools, hospitals, doctors offices, sports leagues, charities, and governments around the world -- needs to enroll and gather information from its clients, members, and volunteers. 
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## Why paper? ##
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+While online forms are easy to build, submit, and record -- paper remains the most broadly accessible method for gathering and sharing information. A form built in Adobe by a professional lays out and prints nicely, but as soon as it’s on paper, it’s hard to consolidate without data entry and database management.
 
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
