@@ -1,5 +1,6 @@
 
 baseurl: '/'
+newbaseurl: '/'
 permalink: pretty
 title: 'Papelo'
 
